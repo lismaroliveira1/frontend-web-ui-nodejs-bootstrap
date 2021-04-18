@@ -1,6 +1,6 @@
 # NodeJs + Bootstrap + Font Awesome
 
-This boilerplate loads [Bootstrap 4](https://getbootstrap.com/), [Font Awesome 4](https://fontawesome.com/), [jQuery](http://jquery.com/) and [popper.js](https://popper.js.org/) and more useful stuff.  
+This boilerplate loads [Bootstrap 4](https://getbootstrap.com/), [Nodejs](https://nodejs.dev), [Font Awesome 4](https://fontawesome.com/), and [CCS](https://www.w3schools.com/css/) and more useful stuff.  
 We included everything you need to start a small project from scratch.
 
 
