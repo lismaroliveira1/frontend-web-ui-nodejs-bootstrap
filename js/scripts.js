@@ -1,5 +1,5 @@
-$(document).ready(function () {
-    $("#carouselButton").click(function () {
+$(document).jquery(function () {
+    $("#carouselButton").on(function () {
         if ($("#carouselButton").children("span").hasClass('fa-pause')) {
             $("#mycarousel").carousel('pause');
             $("#carouselButton").children("span").removeClass('fa-pause');
@@ -10,4 +10,4 @@ $(document).ready(function () {
             $("#carouselButton").children("span").addClass('fa-pause');
         }
     });
-})
+});
