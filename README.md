@@ -1,16 +1,15 @@
 # NodeJs + Bootstrap + Font Awesome
 
-This boilerplate loads [Bootstrap 4](https://getbootstrap.com/), [Font Awesome 4](https://fontawesome.com/), and [CCS](https://www.w3schools.com/css/) and more useful stuff.  
+This boilerplate loads [Bootstrap 4](https://getbootstrap.com/), [Font Awesome 4](https://fontawesome.com/), [CCS](https://www.w3schools.com/css/), [Jquery](https://jquery.com), [javaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript) and more useful stuff.  
 We included everything you need to start a small project from scratch.
 
 
 ## Installation
 
 1. Download the boilerplate as .zip-file.
-1. Extract the files and copy them to your project root.
-1. Run ```npm install``` in your terminal to get all needed packages.
-1. Copy __the variables.env.sample__ file to __variables.env__.
-1. Run ```npm start``` to start the node.js application.
+2. Extract the files and copy them to your project root.
+3. Run ```npm install``` in your terminal to get all needed packages
+4. Run ```npm start``` to start the node.js application.
 
 ## Development &amp; Production mode
 
